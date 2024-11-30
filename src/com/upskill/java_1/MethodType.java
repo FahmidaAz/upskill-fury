@@ -6,9 +6,11 @@ public class MethodType {
 	 
 	1.Void Method
 	2.Static Method
-	3.Return Type Method  
+	3.Return Type Method
+	  
  */
-	public static int hourlyIncome = 65;
+	//test case
+	public static int hourlyIncome = 68;
 
 	public static void main(String[] args) {
 		MethodType obj = new MethodType();
