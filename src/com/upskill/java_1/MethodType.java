@@ -10,7 +10,8 @@ public class MethodType {
 	  
  */
 	//test case
-	public static int hourlyIncome = 68;
+	//git change 12/03/2024
+	public static int hourlyIncome = 65;
 
 	public static void main(String[] args) {
 		MethodType obj = new MethodType();
