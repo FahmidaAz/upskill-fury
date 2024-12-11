@@ -17,8 +17,8 @@ public class Loops {
 	}
 	
   public static void practiceForLoop(){
-	
-   	for(int i = 1; i<=10; i++){
+	//Testing gitHub relaseJan25 branch
+   	for(int i = 1; i<=50; i++){
 			System.out.println("for loop: "+i);
 		}
 	}
