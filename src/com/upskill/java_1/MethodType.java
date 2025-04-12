@@ -1,6 +1,6 @@
 package com.upskill.java_1;
 
-public class MethodType {
+public class MethodType extends Variables{
 	
 /* 	Types of Methods
 	 
