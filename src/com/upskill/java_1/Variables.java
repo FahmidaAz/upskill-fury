@@ -1,6 +1,8 @@
 package com.upskill.java_1;
 
-public class Variables {
+import com.upskill.java_2.Loops;
+
+public class Variables extends Loops{
 
 //	Variables in Java
 
